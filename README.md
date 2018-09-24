@@ -20,6 +20,7 @@ Solutions:
 <br />
 <ul>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/control-navigate.js" target="_blank">Nested createBottomTabNavigator inside createStackNavigator - Can't set tab header</a></li>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/center-title-stacknavigator.js" target="_blank">Center Title Stacknavigator</a></li>
 </ul>
 
 Links: 
@@ -37,4 +38,5 @@ Links:
   <li><a href="https://github.com/wix/react-native-calendars" target="_blank">react-native-calendars</a></li>
   <li><a href="https://www.youtube.com/watch?v=xLs71f9j2RY&t=692s" target="_blank">react-native-maps</a></li>
   <li><a href="https://www.npmjs.com/package/react-native-pages" target="_blank">react-native-pages</a></li>
+  <li><a href="https://www.youtube.com/watch?v=22LEiBYBiTw" target="_blank">How to add custom fonts in React-Native Project</a></li>
 </ul>
