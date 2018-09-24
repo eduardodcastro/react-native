@@ -15,3 +15,21 @@ Configure Github e Bitbucket
   <li>command: git push -u origin master --force  //extreme cases </li>
   <li>create your branch command: git checkout -b name_branch </li>
 </ul>
+
+
+Links: 
+<br />
+<ul>
+  <li><a href="https://github.com/archriss/react-native-snap-carousel" target="_blank">react-native-snap-carousel</a></li>
+  <li><a href="https://github.com/oblador/react-native-vector-icons" target="_blank">react-native-vector-icons</a></li>
+  <li><a href="https://github.com/react-native-community/react-native-linear-gradient" target="_blank">react-native-linear-gradient</a></li>
+  <li><a href="https://github.com/indiespirit/react-native-chart-kit" target="_blank">react-native-chart-kit</a></li>
+  <li><a href="https://dev.to/mattstratton/making-powerline-work-in-visual-studio-code-terminal-1m7" target="_blank">vs code custom terminal</a></li>
+  <li><a href="https://medium.com/@arojunior/otimizando-o-terminal-do-mac-os-x-com-iterm-e-oh-my-zsh-1b0e843b5eb2" target="_blank">Optimizing the Mac terminal with iTerm and Oh My Zsh</a></li>
+  <li><a href="https://github.com/robbyrussell/oh-my-zsh" target="_blank">Using Oh My Zsh</a></li>
+  <li><a href="https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/" target="_blank">Rocketseat Javascript Environment: Tips, VSCode and Terminal</a></li>
+  <li><a href="https://github.com/ivpusic/react-native-image-crop-picker" target="_blank">react-native-image-crop-picker</a></li>
+  <li><a href="https://github.com/wix/react-native-calendars" target="_blank">react-native-calendars</a></li>
+  <li><a href="https://www.youtube.com/watch?v=xLs71f9j2RY&t=692s" target="_blank">react-native-maps</a></li>
+  <li><a href="https://www.npmjs.com/package/react-native-pages" target="_blank">react-native-pages</a></li>
+</ul>
