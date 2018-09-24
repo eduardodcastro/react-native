@@ -16,6 +16,11 @@ Configure Github e Bitbucket
   <li>create your branch command: git checkout -b name_branch </li>
 </ul>
 
+Solutions:
+<br />
+<ul>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/control-navigate.js" target="_blank">Nested createBottomTabNavigator inside createStackNavigator - Can't set tab header</a></li>
+</ul>
 
 Links: 
 <br />
