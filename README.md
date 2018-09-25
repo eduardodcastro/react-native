@@ -16,11 +16,26 @@ Configure Github e Bitbucket
   <li>create your branch command: git checkout -b name_branch </li>
 </ul>
 
+Commands Github / React Native
+<br />
+<ul>
+  <li>react-native start —reset-cache </Li>
+  <li>:wq (exit publisher | terminal) </li>
+  <li>Reactotron change door >> adb reverse tcp:9090 tcp:9090 </Li>
+  <li>git status </Li>
+  <li>git add —-all </li>
+  <li>git commit -m “Commit message” </li>
+  <li>git pull origin master (pull files from server) </li>
+  <li>git push origin tag-name (send files to server) </li>
+</ul>
+
 Solutions:
 <br />
 <ul>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/control-navigate.js" target="_blank">Nested createBottomTabNavigator inside createStackNavigator - Can't set tab header</a></li>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/center-title-stacknavigator.js" target="_blank">Center Title Stacknavigator</a></li>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/asyncstorage.js" target="_blank">Asyncstorage</a></li>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/passing-props-update-state.js" target="_blank">Passing props update state</a></li>
 </ul>
 
 Links: 
