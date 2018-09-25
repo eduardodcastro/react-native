@@ -12,7 +12,7 @@ import styles from './styles';
 class TitleHeader extends Component {
   static navigationOptions = ({ navigation }) => {
     return {
-      headerTitle: 'Meus Imóveis',
+      headerTitle: 'My Title',
       headerStyle: {
         backgroundColor: colors.transparent,
         borderBottomWidth: 0,
