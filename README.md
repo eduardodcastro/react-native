@@ -55,4 +55,5 @@ Links:
   <li><a href="https://www.npmjs.com/package/react-native-pages" target="_blank">react-native-pages</a></li>
   <li><a href="https://www.youtube.com/watch?v=22LEiBYBiTw" target="_blank">How to add custom fonts in React-Native Project</a></li>
   <li><a href="https://github.com/jvaclavik/react-native-show-hide-toggle-box" target="_blank">[collapse] react-native-show-hide-toggle-box</a></li>
+  <li><a href="https://github.com/lesliesam/react-native-wheel-picker" target="_blank">[picker] react-native-wheel-picker</a></li>
 </ul>
