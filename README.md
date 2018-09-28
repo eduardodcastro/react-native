@@ -56,4 +56,5 @@ Links:
   <li><a href="https://www.youtube.com/watch?v=22LEiBYBiTw" target="_blank">How to add custom fonts in React-Native Project</a></li>
   <li><a href="https://github.com/jvaclavik/react-native-show-hide-toggle-box" target="_blank">[collapse] react-native-show-hide-toggle-box</a></li>
   <li><a href="https://github.com/lesliesam/react-native-wheel-picker" target="_blank">[picker] react-native-wheel-picker</a></li>
+  <li><a href="https://reactnativeexample.com/ios-android-image-picker-with-support-for-camera/" target="_blank">[camera] image-picker-with-support-for-camera</a></li>
 </ul>
