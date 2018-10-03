@@ -36,6 +36,7 @@ Solutions:
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/center-title-stacknavigator.js" target="_blank">Center Title Stacknavigator</a></li>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/asyncstorage.js" target="_blank">Asyncstorage</a></li>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/passing-props-update-state.js" target="_blank">Passing props update state</a></li>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/format-currency.js" target="_blank">Format Currency</a></li>
 </ul>
 
 Links: 
