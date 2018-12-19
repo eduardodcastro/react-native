@@ -40,7 +40,7 @@ Solutions:
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/reactotronConfig.js" target="_blank">Reactotron Config</a></li>
 </ul>
 
-Links: 
+References: 
 <br />
 <ul>
   <li><a href="https://medium.com/@edmo_/m%C3%A9todos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782" target="_blank">todos-do-ciclo-de-vida-de-componentes-reactjs</a></li>
