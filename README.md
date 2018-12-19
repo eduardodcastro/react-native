@@ -46,6 +46,8 @@ References:
   <li><a href="https://medium.com/@edmo_/m%C3%A9todos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782" target="_blank">todos-do-ciclo-de-vida-de-componentes-reactjs</a></li>
   <li><a href="https://mobbin.design/" target="_blank">mobbin.design</a></li>
   <li><a href="https://unsplash.com/" target="_blank">unsplash</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3Gf9yb53bJM" target="_blank">Configurando ícone, splash screen e nome do app Android no React Native</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iOitq0mDaLc" target="_blank">Configurando ícone, splash screen e nome do app iOS no React Native</a></li>
 </ul>
 
 Links: 
