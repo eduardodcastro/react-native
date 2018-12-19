@@ -43,6 +43,14 @@ Solutions:
 Links: 
 <br />
 <ul>
+  <li><a href="https://medium.com/@edmo_/m%C3%A9todos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782" target="_blank">todos-do-ciclo-de-vida-de-componentes-reactjs</a></li>
+  <li><a href="https://mobbin.design/" target="_blank">mobbin.design</a></li>
+  <li><a href="https://unsplash.com/" target="_blank">unsplash</a></li>
+</ul>
+
+Links: 
+<br />
+<ul>
   <li><a href="https://github.com/archriss/react-native-snap-carousel" target="_blank">react-native-snap-carousel</a></li>
   <li><a href="https://github.com/oblador/react-native-vector-icons" target="_blank">react-native-vector-icons</a></li>
   <li><a href="https://github.com/react-native-community/react-native-linear-gradient" target="_blank">react-native-linear-gradient</a></li>
