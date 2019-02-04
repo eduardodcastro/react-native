@@ -38,7 +38,7 @@ Solutions:
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/passing-props-update-state.js" target="_blank">Passing props update state</a></li>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/format-currency.js" target="_blank">Format Currency</a></li>
   <li><a href="https://github.com/eduardodcastro/react-native/blob/master/reactotronConfig.js" target="_blank">Reactotron Config</a></li>
-  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/badgeCount.js.js" target="_blank">Component Badge Count</a></li>
+  <li><a href="https://github.com/eduardodcastro/react-native/blob/master/badgeCount.js" target="_blank">Component Badge Count</a></li>
 </ul>
 
 References: 
